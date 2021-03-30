@@ -2,7 +2,7 @@
 This repository contains flow data at the old and middle rivers to describe flow in the delta. 
 
 # Data Format 
-The `OMR_daily.txt` is a matrix containing daily flow of the OMR. TODO: add aditional structure info. 
+The `OMR_daily.txt` is a matrix containing daily flow of the OMR.  Old and Middle River flow has dimensions year _y_ and month _m_. 
 
 # Methods for Preparing OMR Data for MOdel Input
 by WIll Smith 
