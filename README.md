@@ -4,7 +4,7 @@ This repository contains flow data at the old and middle rivers to describe flow
 # Data Format 
 The `OMR_daily.txt` is a matrix containing daily flow of the OMR.  Old and Middle River flow has dimensions year _y_ and month _m_. 
 
-# Methods for Preparing OMR Data for MOdel Input
+# Methods for Preparing OMR Data for Model Input
 by Will Smith 
 
 OMR<sub>ym</sub> was the monthly average of the daily sum of tidally filtered flows from two adjacent channels 
