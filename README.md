@@ -5,7 +5,7 @@ This repository contains flow data at the old and middle rivers to describe flow
 The `OMR_daily.txt` is a matrix containing daily flow of the OMR.  Old and Middle River flow has dimensions year _y_ and month _m_. 
 
 # Methods for Preparing OMR Data for Model Input
-by Will Smith 
+by [Will Smith](mailto:william_e_smith@fws.gov)
 
 OMR<sub>ym</sub> was the monthly average of the daily sum of tidally filtered flows from two adjacent channels 
 of the San Joaquin River basin, Old and Middle Rivers (Fig. 2). OMR data were available from US Geological Survey 
